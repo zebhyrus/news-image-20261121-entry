@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .serif { font-family: Georgia, 'Times New Roman', 'DejaVu Serif', serif; }
+      .sans { font-family: Arial, Helvetica, 'DejaVu Sans', sans-serif; }
+    </style>
+  </defs>
+
+  <!-- paper -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#f7f2e7"/>
+  <rect x="18" y="18" width="988" height="988" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- top strip -->
+  <text x="512" y="46" text-anchor="middle" class="sans" font-size="12" letter-spacing="4" fill="#444">EST. 2026 &#183; ONE WORLD, ONE PAGE &#183; DAILY</text>
+  <line x1="40" y1="58" x2="984" y2="58" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- masthead -->
+  <text x="512" y="142" text-anchor="middle" class="serif" font-size="108" font-weight="bold" letter-spacing="6" fill="#111">THE WORLD</text>
+  <line x1="40" y1="162" x2="984" y2="162" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="40" y1="168" x2="984" y2="168" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- dateline -->
+  <text x="40" y="200" class="sans" font-size="15" font-weight="bold" fill="#111">No. 325</text>
+  <text x="512" y="200" text-anchor="middle" class="sans" font-size="21" font-weight="bold" letter-spacing="2" fill="#111">SATURDAY 21 NOVEMBER 2026</text>
+  <text x="984" y="200" text-anchor="end" class="sans" font-size="15" font-weight="bold" fill="#111">PRICE FREE</text>
+  <line x1="40" y1="214" x2="984" y2="214" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="40" y1="220" x2="984" y2="220" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- HERO -->
+  <text x="512" y="254" text-anchor="middle" class="sans" font-size="15" font-weight="bold" letter-spacing="6" fill="#8a1f1f">LATIN AMERICA &#183; EARTHQUAKE</text>
+  <text x="512" y="318" text-anchor="middle" class="serif" font-size="62" font-weight="bold" fill="#111">6.8 QUAKE SHAKES PERU</text>
+  <text x="512" y="354" text-anchor="middle" class="serif" font-size="24" font-style="italic" fill="#222">Tremor rattles Lima and empties Congress; no deaths reported</text>
+
+  <!-- seismograph band -->
+  <rect x="72" y="374" width="880" height="72" fill="#efe8d6" stroke="#1a1a1a" stroke-width="1.5"/>
+  <polyline points="72,410 130,410 150,394 168,424 186,372 204,438 222,410 300,410 318,384 336,428 354,362 372,442 390,410 470,410 488,398 506,420 524,378 542,436 560,410 640,410 658,388 676,428 694,368 712,440 730,410 810,410 828,400 846,418 864,394 882,410 952,410" fill="none" stroke="#8a1f1f" stroke-width="3"/>
+  <text x="512" y="470" text-anchor="middle" class="sans" font-size="12" letter-spacing="2" fill="#555">SEISMIC TRACE &#183; MAGNITUDE 6.8 &#183; JUNIN, CENTRAL PERU</text>
+
+  <text x="72" y="506" class="serif" font-size="19" fill="#222">A magnitude 6.8 earthquake struck the Andean region of Junin on Friday,</text>
+  <text x="72" y="530" class="serif" font-size="19" fill="#222">sending residents of Lima into the streets and lawmakers out of</text>
+  <text x="72" y="554" class="serif" font-size="19" fill="#222">Congress. Peru&#8217;s Geophysical Institute put the quake at 129 km deep.</text>
+  <text x="72" y="578" class="serif" font-size="19" fill="#222">No casualties or major damage were reported, and there was no</text>
+  <text x="72" y="602" class="serif" font-size="19" fill="#222">tsunami threat, officials said. &#8212; Reuters</text>
+
+  <line x1="40" y1="624" x2="984" y2="624" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- ROW 1: three stories -->
+  <!-- story 2: Poland -->
+  <text x="40" y="654" class="sans" font-size="12" font-weight="bold" letter-spacing="3" fill="#8a1f1f">EUROPE &#183; SECURITY</text>
+  <text x="40" y="688" class="serif" font-size="26" font-weight="bold" fill="#111">Russian missiles</text>
+  <text x="40" y="716" class="serif" font-size="26" font-weight="bold" fill="#111">crash in Poland</text>
+  <text x="40" y="742" class="serif" font-size="16" fill="#222">A Kh-101 cruise missile came</text>
+  <text x="40" y="762" class="serif" font-size="16" fill="#222">down near Nowy Lipowiec as</text>
+  <text x="40" y="782" class="serif" font-size="16" fill="#222">allies drilled nearby. PM</text>
+  <text x="40" y="802" class="serif" font-size="16" fill="#222">Tusk called it a deliberate</text>
+  <text x="40" y="822" class="serif" font-size="16" fill="#222">provocation. No injuries.</text>
+
+  <line x1="348" y1="640" x2="348" y2="832" stroke="#999" stroke-width="1"/>
+
+  <!-- story 3: markets -->
+  <text x="368" y="654" class="sans" font-size="12" font-weight="bold" letter-spacing="3" fill="#8a1f1f">MARKETS &#183; TECH</text>
+  <text x="368" y="688" class="serif" font-size="26" font-weight="bold" fill="#111">Tech sell-off drags</text>
+  <text x="368" y="716" class="serif" font-size="26" font-weight="bold" fill="#111">markets lower</text>
+  <text x="368" y="742" class="serif" font-size="16" fill="#222">A broad tech stock sell-off</text>
+  <text x="368" y="762" class="serif" font-size="16" fill="#222">pulled markets down, with</text>
+  <text x="368" y="782" class="serif" font-size="16" fill="#222">Anthropic shares sliding</text>
+  <text x="368" y="802" class="serif" font-size="16" fill="#222">as investors fled AI names</text>
+  <text x="368" y="822" class="serif" font-size="16" fill="#222">for safer ground.</text>
+
+  <line x1="676" y1="640" x2="676" y2="832" stroke="#999" stroke-width="1"/>
+
+  <!-- story 4: Rikers -->
+  <text x="696" y="654" class="sans" font-size="12" font-weight="bold" letter-spacing="3" fill="#8a1f1f">UNITED STATES</text>
+  <text x="696" y="688" class="serif" font-size="26" font-weight="bold" fill="#111">Mamdani: Rikers to</text>
+  <text x="696" y="716" class="serif" font-size="26" font-weight="bold" fill="#111">close by 2032</text>
+  <text x="696" y="742" class="serif" font-size="16" fill="#222">New York Mayor Zohran</text>
+  <text x="696" y="762" class="serif" font-size="16" fill="#222">Mamdani unveiled the city&#8217;s</text>
+  <text x="696" y="782" class="serif" font-size="16" fill="#222">first full plan to shut the</text>
+  <text x="696" y="802" class="serif" font-size="16" fill="#222">Rikers Island jail complex</text>
+  <text x="696" y="822" class="serif" font-size="16" fill="#222">by 2032, five years late.</text>
+
+  <line x1="40" y1="848" x2="984" y2="848" stroke="#999" stroke-width="1"/>
+
+  <!-- ROW 2: two stories -->
+  <!-- story 5: India -->
+  <text x="40" y="880" class="sans" font-size="12" font-weight="bold" letter-spacing="3" fill="#8a1f1f">ASIA &#183; ECONOMY</text>
+  <text x="40" y="910" class="serif" font-size="23" font-weight="bold" fill="#111">India draws record foreign cash</text>
+  <text x="40" y="936" class="serif" font-size="16" fill="#222">Foreign investors poured a record &#8377;1.22 lakh crore into Indian shares</text>
+  <text x="40" y="956" class="serif" font-size="16" fill="#222">in November, the biggest monthly inflow ever, depository data show.</text>
+
+  <line x1="512" y1="864" x2="512" y2="966" stroke="#999" stroke-width="1"/>
+
+  <!-- story 6: Gen Z protests -->
+  <text x="532" y="880" class="sans" font-size="12" font-weight="bold" letter-spacing="3" fill="#8a1f1f">EUROPE &#183; PROTEST</text>
+  <text x="532" y="910" class="serif" font-size="23" font-weight="bold" fill="#111">Gen Z rallies sweep Europe</text>
+  <text x="532" y="936" class="serif" font-size="16" fill="#222">Thousands marched in 25 countries over living costs, military</text>
+  <text x="532" y="956" class="serif" font-size="16" fill="#222">spending and the climate, in a coordinated day of action.</text>
+
+  <line x1="40" y1="982" x2="984" y2="982" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="512" y="1002" text-anchor="middle" class="sans" font-size="12" letter-spacing="2" fill="#555">THE WORLD &#183; SUMMING UP 21 NOVEMBER 2026 &#183; CONTINUED ON PAGE 2</text>
+</svg>
